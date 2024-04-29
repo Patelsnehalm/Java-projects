@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths/>
+ <validation>
+  <el>
+   <linked-el length="25" name="%0" offset="5502" path="%1"/>
+   <linked-el length="16" name="%2" offset="4436" path="%1"/>
+   <linked-el length="16" name="%2" offset="4724" path="%1"/>
+   <linked-el length="47" name="%3" offset="5396" path="%1"/>
+   <linked-el length="16" name="%4" offset="4436" path="%1"/>
+   <linked-el length="16" name="%4" offset="4724" path="%1"/>
+   <linked-el length="47" name="%5" offset="5396" path="%1"/>
+   <linked-el length="14" name="%6" offset="3530" path="%1"/>
+   <linked-el length="14" name="%6" offset="5278" path="%1"/>
+   <linked-el length="47" name="%7" offset="5396" path="%1"/>
+   <linked-el length="47" name="%8" offset="5396" path="%1"/>
+   <linked-el length="47" name="%9" offset="5396" path="%1"/>
+   <linked-el length="14" name="%10" offset="3530" path="%1"/>
+   <linked-el length="14" name="%10" offset="5278" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="basedir" value="%0"/>
+  <alias path="graal" value="%2"/>
+  <alias path="os.detected" value="%3"/>
+  <alias path="graal.version" value="%4"/>
+  <alias path="os" value="%5"/>
+  <alias path="/StudentManagement/pom.xml" value="%1"/>
+  <alias path="start" value="%6"/>
+  <alias path="project.artifactId" value="%7"/>
+  <alias path="project" value="%8"/>
+  <alias path="os.detected.classifier" value="%9"/>
+  <alias path="class" value="%10"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

@@ -1,0 +1,23 @@
+package Java_Program;
+class Monkey
+{
+	public Monkey() {
+		// TODO Auto-generated constructor stub
+		System.out.println("Dog class is invoked");
+	}
+}
+class Cat extends Monkey
+{
+	public Cat() {
+		// TODO Auto-generated constructor stub
+		System.out.println("Cat Class is invoked");
+	}
+}
+
+public class PolymorphismDemo {
+	public static void main(String args[])
+	{
+		Cat c=new Cat();
+	}
+
+}

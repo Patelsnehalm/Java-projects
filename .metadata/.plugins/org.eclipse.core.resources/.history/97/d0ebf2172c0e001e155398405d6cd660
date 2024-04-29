@@ -1,0 +1,17 @@
+package Java_Program;
+class OverloadDemo
+{
+	public OverloadDemo() {
+		// TODO Auto-generated constructor stub
+		System.out.println("default Construcor!!");
+	}
+}
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		OverloadDemo od=new OverloadDemo();
+
+	}
+
+}

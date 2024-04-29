@@ -1,0 +1,13 @@
+package Java_Program;
+
+public class Std
+{
+	}
+public class EncapsulationDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

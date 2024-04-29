@@ -1,0 +1,33 @@
+package Java_Program;
+class Monkey
+{
+	public Monkey() {
+		// TODO Auto-generated constructor stub
+		System.out.println("Dog class is invoked");
+	}
+	public int add(int a,int b)
+	{
+		return a+b;
+	}
+}
+class Cat extends Monkey
+{
+	public Cat() {
+		// TODO Auto-generated constructor stub
+		System.out.println("Cat Class is invoked");
+	}
+	public int add(int a,int b)
+	{
+		return a+b;
+	}
+}
+
+public class PolymorphismDemo {
+	public static void main(String args[])
+	{
+		Cat c=new Cat();
+	System.out.println(c.add(10, 20));	
+		//when we are creating object of subclass it will run all the constructor of parent class
+	}
+
+}
